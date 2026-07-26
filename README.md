@@ -1,6 +1,5 @@
 ## Customer Segmentation Analysis
 
-**Internship:** CloudExify Summer Internship 2026
 **Track:** Data Science 
 **Tools:** Python, Jupyter Notebook, pandas, NumPy, matplotlib, scikit-learn
 

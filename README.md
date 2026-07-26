@@ -1,8 +1,7 @@
-# CloudExify Data Science — Month 1 Final Project
 ## Customer Segmentation Analysis
 
 **Internship:** CloudExify Summer Internship 2026
-**Track:** Data Science — Month 1, Project 2 (Final Submission)
+**Track:** Data Science 
 **Tools:** Python, Jupyter Notebook, pandas, NumPy, matplotlib, scikit-learn
 
 ---
@@ -143,4 +142,3 @@ Run all cells top to bottom in each notebook. `customer_segmentation.ipynb` read
 
 ---
 
-*CloudExify Summer Internship 2026 — Data Science Month 1 Final Submission*
